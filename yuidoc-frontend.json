@@ -1,0 +1,11 @@
+{
+	"name": "moviemaster",
+    "description": "My really cool app!",
+    "version": "0.0.0",
+    "url": "https://github.com/panda01/moviemaster",
+    "options": {
+        "paths": "./app/src/",
+        "outdir": "yuidocs/frontend",
+        "exclude": "bower_components,build,deploys,test"
+    }
+}
